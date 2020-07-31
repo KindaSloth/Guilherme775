@@ -6,6 +6,8 @@
 
 > :books: Atualmente estou focando meus estudos em Javascript/TypeScript
 
+> :mortar_board: Cursando Sistemas de informação
+
 > :computer: Buscando primeira oportunidade como dev
 
 ### Ferramentas e tecnologias
