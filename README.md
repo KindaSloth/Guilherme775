@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-> 😄 Tenho 17 anos e estudo programação desde o ensino medio
+> 😄 Tenho 17 anos e estudo programação desde o ensino médio
 
 > :books: Atualmente estou focando meus estudos em Javascript/TypeScript
 
