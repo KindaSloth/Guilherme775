@@ -8,7 +8,7 @@
 
 > :mortar_board: Cursando Sistemas de informação
 
-> :computer: Junior Front-end developer
+> :computer: Front-end developer
 
 ### Ferramentas e tecnologias
 
