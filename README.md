@@ -4,9 +4,9 @@
 
 > 😄 Tenho 18 anos e estudo programação desde o ensino médio
 
-> :books: Atualmente estou focando meus estudos em Javascript/TypeScript
+> :books: Estudando/tenho interesse em: https://github.com/Guilherme775/study-links
 
-> :mortar_board: Cursando Sistemas de informação
+> :mortar_board: Atualmente estou trabalhando com Javascript/TypeScript
 
 > :computer: Front-end developer
 
