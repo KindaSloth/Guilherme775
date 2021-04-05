@@ -6,7 +6,7 @@
 
 > :books: Estudando/tenho interesse em: https://github.com/Guilherme775/study-links
 
-> :mortar_board: Atualmente estou trabalhando com Javascript/TypeScript
+> :construction_worker: Atualmente estou trabalhando com Javascript/TypeScript
 
 > :computer: Front-end developer
 
