@@ -4,7 +4,7 @@
 
 > 😄 I'm have 18 years old and study programming since the high school
 
-> :books: Interest in: https://github.com/Guilherme775/study-links
+> :books: Learning Haskell
 
 > :construction_worker: Currently working with Javascript/TypeScript and Rust
 
