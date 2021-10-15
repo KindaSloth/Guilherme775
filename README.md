@@ -6,6 +6,6 @@
 
 > :books: Passionate about gamedev and functional programming
 
-> :construction_worker: Currently working with Javascript/TypeScript and C#
+> :construction_worker: Currently working with Javascript/TypeScript, Rust and C#
 
 > :computer: Software Development Engineer at Foton Tech
