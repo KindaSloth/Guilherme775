@@ -1,4 +1,4 @@
-# Hello World, I'm Guilherme
+# Hello there, I'm Guilherme
 
 ### About me
 
