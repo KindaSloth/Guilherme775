@@ -2,9 +2,9 @@
 
 ### About me
 
-> 😄 I'm have 19 years old and study programming since the high school
+> 😄 I've 19 years old and have been studying programming since high school
 
-> :books: Passionate about type theory and functional programming
+> :books: Passionate about compilers, functional programming, and programming languages design in general
 
 > :construction_worker: Currently working with TypeScript, Rust, Haskell and Blockchain stuffs
 
