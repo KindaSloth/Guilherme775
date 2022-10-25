@@ -6,6 +6,6 @@
 
 > :books: Passionate about compilers, functional programming, and programming languages design in general
 
-> :construction_worker: Currently working with TypeScript, Rust, Haskell and Blockchain stuffs
+> :construction_worker: Currently working at [Blockade Games](https://blockade.games/)
 
 > :computer: Software Engineer
