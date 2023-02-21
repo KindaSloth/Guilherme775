@@ -6,6 +6,6 @@
 
 > :books: Passionate about compilers, functional programming, type theory and programming languages design in general
 
-> :construction_worker: Currently working at [Blockade Games](https://blockade.games/)
+> :construction_worker: Currently working at [Blockade Labs](https://twitter.com/BlockadeLabs)
 
 > :computer: Software Engineer
