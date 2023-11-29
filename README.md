@@ -2,8 +2,8 @@
 
 ### About me
 
-> 😄 I've 20 years old and have been studying programming since high school
+> 😄&nbsp;&nbsp;I've 20 years old and have been studying programming since high school
 
-> :computer: I like to code random stuff
+> :computer:&nbsp;&nbsp;I like to code random stuff
 
-> :construction_worker: Currently working at [Blockade Labs](https://twitter.com/BlockadeLabs)
+> :construction_worker:&nbsp;&nbsp;Currently working at [Blockade Labs](https://twitter.com/BlockadeLabs)
