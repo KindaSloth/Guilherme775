@@ -4,8 +4,6 @@
 
 > 😄 I've 20 years old and have been studying programming since high school
 
-> :books: Passionate about compilers, functional programming, type theory and programming languages design in general
+> :computer: I like to code random stuff
 
 > :construction_worker: Currently working at [Blockade Labs](https://twitter.com/BlockadeLabs)
-
-> :computer: Software Engineer
