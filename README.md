@@ -2,7 +2,7 @@
 
 ### About me
 
-> 😄&nbsp;&nbsp;I've 20 years old and have been studying programming since high school
+> 😄&nbsp;&nbsp;I've 21 years old and have been studying programming since high school
 
 > :computer:&nbsp;&nbsp;I like to code random stuff
 
